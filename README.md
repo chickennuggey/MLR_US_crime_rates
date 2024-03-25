@@ -1,2 +1,5 @@
 # MLR_US_crime_rates
-A multiple linear regression model used to predict violent crime rates in the United States based on demographic features (education, employment, family dynamics, etc.)
+Project: Predicting Violent Crime Rates in the United States
+
+## Introduction
+Although the general trend of violent crime rate in California has decreased over the past decade, there has been a gradual increase from 2014 of about 391 violent crimes per 100,000 residents to 495 violent crime per 100,000 residents in 2022, resulting in an overall 26.4% increase. These violent crimes mainly consisted of a large percentage of aggravated assaults followed by robberies, rapes and homicides. In order to implement more effective policies to mediate and combat violent crimes, it is crucial to understand its causes. This study aimed to explore different demographic features and crime rates in various communities within not just California, but the entire United States. A Kaggle dataset from the year 2022 was utilized to develop a multiple linear regression (MLR) model to predict the number of violent crimes per population. This dataset contained 146 different variables and 2018 observations (n = 2018), but this study mainly focused on the following variables:
