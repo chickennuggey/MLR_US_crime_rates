@@ -1,6 +1,4 @@
-# MLR_US_crime_rates
-Project: Predicting Violent Crime Rates in the United States
-
+# Predicting Violent Crime Rates in the United States with Multiple Linear Regression
 Dataset: *https://www.kaggle.com/datasets/michaelbryantds/crimedata*
 
 ## Introduction
