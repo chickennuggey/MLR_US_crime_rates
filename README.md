@@ -8,12 +8,12 @@ Although the general trend of violent crime rate in California has decreased ove
 **Outcome variable**: number of violent crimes per population (ViolentCrimesPerPop)
 
 ## Methods
-Data Cleaning
-Variable Correlation
-Analysis of Initial Linear Model (Diagnostic Plots, Standardized Residuals)
-Box-Cox Transformation
-Multi-Collinearity and Variable Selection
-Outliers
+- **Data Cleaning**: Data was cleaned by filtering out the variables of interest and removing incomplete cases
+- **Variable Correlation**: A correlation matrix was used to determine if there exists a linear relationship between the predictor and outcome variables and to examine any possible multi-collinearity issues
+- **Analysis of Initial Linear Model (Diagnostic Plots, Standardized Residuals)**: The initial MLR model assumptions (normality, homoscedasticity, linearity, outliers) were evaluated using summary results, diagnotic plots and standardized residual plots 
+- **Box-Cox Transformation**: A box-cox transformation was implemented to address normality violations in the heavily skewed variables
+- **Multi-Collinearity and Variable Selection**: VIF, added-variable plots and a backward stepwise regression was used to remove highly correlated or insignificant variables
+- **Outliers**: Outliers were removed based on their standardized residual value and cook's distance
 
 ## Resources
 - **Report.pdf**: Report of the project
