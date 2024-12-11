@@ -1,4 +1,7 @@
 # Predicting Violent Crime Rates in the United States with Multiple Linear Regression
+
+By: Briana Nguyen
+
 Dataset: *https://www.kaggle.com/datasets/michaelbryantds/crimedata*
 
 ## Introduction
